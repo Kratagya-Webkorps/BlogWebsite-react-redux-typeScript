@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userName": "Sarah Johnson",
+      "title": "Finding Joy in Small Moments",
+      "body": " In a world filled with chaos, it's essential to find joy in the little things. Whether it's a warm cup of coffee in the morning or a beautiful sunset at night, these small moments can bring immense happiness. Take a moment each day to appreciate the simplicity around you.",
+      "tags": "#Joy #Gratitude #Mindfulness",
+      "likes": 85,
+      "comment": [{
+        "viewerName": "Jay",
+        "comments": ["nice Work", "Impressive"]
+      }]
+    },
+    {
+      "id": "2",
+      "userName": "Alex Chen",
+      "title": "The Power of Positive Affirmations",
+      "body": "Positive affirmations have the remarkable ability to transform our mindset and outlook on life. By repeating empowering statements daily, we can rewire our brains to focus on the good and overcome challenges with resilience. Embrace the power of positivity!",
+      "tags": " #PositiveThinking #Affirmations #SelfEmpowerment",
+      "likes": 5,
+      "comment": [{
+        "viewerName": "Jay",
+        "comments": ["nice Work", "Impressive"]
+      }]
+    },
+    {
+      "id": "3",
+      "userName": "Kratagya",
+      "title": "Finding Balance in Life",
+      "body": " Striking a balance between work, relationships, and personal pursuits is key to leading a fulfilling life. Take time to assess your priorities and allocate time accordingly. Remember to nurture all aspects of your life to maintain harmony and well-being.",
+      "tags": " #Balance #Wellbeing #SelfCare",
+      "likes": 0,
+      "comment": [
+        {
+          "viewerName": "aman",
+          "comments": ["pinku", "glala"]
+        },
+        {
+          "viewerName": "Raj",
+          "comments": ["hello"]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "userName": "Kratagya Agrawal",
+      "title": "The Power of Positive Affirmations",
+      "body": "Positive affirmations have the remarkable ability to transform our mindset and outlook on life. By repeating empowering statements daily, we can rewire our brains to focus on the good and overcome challenges with resilience. Embrace the power of positivity!",
+      "tags": " #PositiveThinking #Affirmations #SelfEmpowerment",
+      "likes": 101,
+      "comment": [
+        {
+          "viewerName": "Jay",
+          "comments": ["nice Work", "Impressive"]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userName": "Rajat Agrawal",
+      "title": "The Power of Positive Affirmations",
+      "body": "Positive affirmations have the remarkable ability to transform our mindset and outlook on life. By repeating empowering statements daily, we can rewire our brains to focus on the good and overcome challenges with resilience. Embrace the power of positivity!",
+      "tags": " #BlockChain #MERN",
+      "likes": 58,
+      "comment": [{
+        "viewerName": "",
+        "comments": []
+      }]
+    },
+    {
+      "id": "6",
+      "userName": "Nitesh Jha",
+      "title": "The Power of Negative Affirmations",
+      "body": "Negative  affirmations have the remarkable ability to transform our mindset and outlook on life. By repeating empowering statements daily, we can rewire our brains to focus on the good and overcome challenges with resilience. Embrace the power of positivity!",
+      "tags": " #NegativeThinking #Affirmations #SelfEmpowerment",
+      "likes": 5,
+      "comment": [{
+        "viewerName": "",
+        "comments": []
+      }]
+    }
+  ]
+}
